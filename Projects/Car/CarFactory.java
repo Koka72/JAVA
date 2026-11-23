@@ -10,7 +10,7 @@ public class CarFactory {
         c1.setEngine(e1);
         c1.setMake("Shelby GT500");
         c1.setYear(2009);
-        
+        c1.setGearbox(g1);
         System.out.println(c1);
     }
 }
